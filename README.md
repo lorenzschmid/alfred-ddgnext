@@ -1,6 +1,6 @@
 # alfred-ddgnext
 
-** Please Note: ** This project will not be updated anymore and is here just for reference.
+**Please Note: Despite that it might still work, this project will not be updated anymore and is here just for reference.**
 
 This is a workflow for the Alfred, an application launcher for Mac OSX. The workflow allows to perform queries on DuckDuckGo directly from Alfred with Auto Suggestion from DuckDuckGo. 
 
